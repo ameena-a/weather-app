@@ -18,3 +18,7 @@ If the API is getting invoked more than 5 times in hr, the error response is ret
     "status": "FAILURE - OpenWeatherMapApiKey is allowed only 5 calls per one hour for the given API key",
     "weatherDesc": ""
 }
+
+Test:
+one black box test is been written.
+We can use wiremock to have component tests to test Web Client.
