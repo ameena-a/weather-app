@@ -20,5 +20,5 @@ If the API is getting invoked more than 5 times in hr, the error response is ret
 }
 
 Test:
-one black box test is been written.
-We can use wiremock to have component tests to test Web Client.
+one component box test is been written.
+We can use wiremock to have component tests for Web Clients.
